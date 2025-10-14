@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Maram Ajami  
 
-<!--
-**Maram-Ajami/Maram-Ajami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Quality Assurance Tester | Manual & Automation Testing Enthusiast**  
 
-Here are some ideas to get you started:
+I’m passionate about improving software quality and creating a smooth user experience through careful testing and attention to detail.  
+Over the past few months, I’ve gained experience in **manual testing**, and I’m now expanding my skills into **automation testing** using tools like **Playwright**, **Selenium**, and **Katalon Studio**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧪 My Skills  
+- **Manual Testing:** Test case design, execution, bug reporting, and regression testing  
+- **Automation Tools:** Playwright | Selenium | Katalon Studio  
+- **Test Management Tools:** Jira | TestLink | Trello  
+- **API Testing:** Postman  
+- **Version Control:** Git & GitHub  
+- **Programming Knowledge:** Basic JavaScript & Python  
+
+---
+
+### 🧰 What You’ll Find Here  
+📂 My repositories include:  
+- Real examples of **manual test cases**  
+- Simple **automation scripts** using Playwright and Selenium  
+- Notes, tips, and QA learning projects from my journey  
+
+---
+
+### 🌱 Currently Learning  
+- Writing better automation frameworks  
+- Integrating test automation with CI/CD workflows  
+- Improving test documentation and reporting  
+
+---
+
+### 💡 My Goal  
+To become a skilled QA Automation Engineer who can ensure software quality at every stage — from planning to delivery.  
+
+---
+
+### 📫 Let’s Connect  
+- 💼 [LinkedIn](www.linkedin.com/in/maram-ajami-950459209)  
+- ✉️ Email: maram98ajami@gmail.com 
+
+---
+
+⭐ **Thanks for visiting my GitHub!**  
+I’m always learning, experimenting, and improving — feel free to check out my projects and share feedback!
