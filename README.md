@@ -13,7 +13,7 @@ Over the past few months, I’ve gained experience in **manual testing**, and I�
 - **Test Management Tools:** Jira | TestLink | Trello  
 - **API Testing:** Postman  
 - **Version Control:** Git & GitHub  
-- **Programming Knowledge:** Basic JavaScript & Python  
+- **Programming Knowledge:** Basic knowledge of JavaScript, C#, and SQL  
 
 ---
 
@@ -38,8 +38,8 @@ To become a skilled QA Automation Engineer who can ensure software quality at ev
 ---
 
 ### 📫 Let’s Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/maram-ajami-950459209)  
-- ✉️ Email: maram98ajami@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/maram-ajami-950459209)  
+- ✉️ Email: maram98ajami@gmail.com  
 
 ---
 
