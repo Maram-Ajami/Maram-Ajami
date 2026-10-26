@@ -1,47 +1,69 @@
-# 👋 Hi, I'm Maram Ajami  
+👋 Hi, I'm Maram Ajami
 
-🎯 **Quality Assurance Tester | Manual & Automation Testing Enthusiast**  
+💻 Front-End Developer | 🐞 QA Tester
 
-I’m passionate about improving software quality and creating a smooth user experience through careful testing and attention to detail.  
-Over the past few months, I’ve gained experience in **manual testing**, and I’m now expanding my skills into **automation testing** using tools like **Playwright**, **Selenium**, and **Katalon Studio**.  
+I'm passionate about building user-friendly web interfaces and ensuring software quality through careful testing and attention to detail.
 
----
+With a background in Front-End Development and hands-on experience in Manual Testing, I'm constantly improving my skills in both development and quality assurance. I enjoy turning ideas into interactive interfaces, finding bugs, and making applications better, more reliable, and easier to use.
 
-### 🧪 My Skills  
-- **Manual Testing:** Test case design, execution, bug reporting, and regression testing  
-- **Automation Tools:** Playwright | Selenium | Katalon Studio  
-- **Test Management Tools:** Jira | TestLink | Trello  
-- **API Testing:** Postman  
-- **Version Control:** Git & GitHub  
-- **Programming Knowledge:** Basic knowledge of JavaScript, C#, and SQL  
+💻 Front-End Development
 
----
+Web Technologies: HTML5 | CSS3 | JavaScript
 
-### 🧰 What You’ll Find Here  
-📂 My repositories include:  
-- Real examples of **manual test cases**  
-- Simple **automation scripts** using Playwright and Selenium  
-- Notes, tips, and QA learning projects from my journey  
+React: Building interactive and reusable UI components
 
----
+Responsive Design: Creating user-friendly interfaces across different devices
 
-### 🌱 Currently Learning  
-- Writing better automation frameworks  
-- Integrating test automation with CI/CD workflows  
-- Improving test documentation and reporting  
+Version Control: Git & GitHub
 
----
+🧪 Quality Assurance & Testing
 
-### 💡 My Goal  
-To become a skilled QA Automation Engineer who can ensure software quality at every stage — from planning to delivery.  
+Manual Testing: Test case design, execution, bug reporting, and regression testing
 
----
+Automation Testing: Playwright | Selenium | Katalon Studio
 
-### 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/maram-ajami-950459209)  
-- ✉️ Email: maram98ajami@gmail.com  
+Test Management Tools: Jira | TestLink | Trello
 
----
+API Testing: Postman
 
-⭐ **Thanks for visiting my GitHub!**  
-I’m always learning, experimenting, and improving — feel free to check out my projects and share feedback!
+Programming Knowledge: Basic JavaScript, C#, and SQL
+
+🧰 What You'll Find Here
+
+📂 My repositories include:
+
+Front-End projects built with HTML, CSS, JavaScript, and React
+
+Manual testing documentation and test cases
+
+Automation testing scripts using Playwright and Selenium
+
+QA practice projects, testing scenarios, and learning notes
+
+🌱 Currently Learning
+
+Improving my React and Front-End development skills
+
+Expanding my knowledge of test automation
+
+Writing maintainable and reusable automation scripts
+
+Exploring CI/CD integration for automated testing
+
+Improving software quality through better testing practices
+
+💡 My Goal
+
+To combine my Front-End Development and QA skills to build better applications, deliver seamless user experiences, and ensure software quality at every stage of development.
+
+📫 Let's Connect
+
+💼 LinkedIn
+
+✉️ Email: maram98ajami@gmail.com
+
+⭐ Thanks for visiting my GitHub!
+
+I build interfaces, break bugs, and make software better. 🐞
+
+I'm always learning, experimenting, and improving — feel free to explore my projects and share your feedback!
